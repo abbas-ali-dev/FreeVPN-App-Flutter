@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670644631493",
+    "project_id": "freevpn-app-bc430",
+    "storage_bucket": "freevpn-app-bc430.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670644631493:android:9f357df117da8cdc02fdac",
+        "android_client_info": {
+          "package_name": "com.abbasali.freeVpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVeAZMvBfNPSLOWI_K2pubChwUN5S_dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
